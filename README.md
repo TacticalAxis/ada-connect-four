@@ -1,2 +1,2 @@
-# ada-connect-four
+# COMP611
 Connect 4 Game
